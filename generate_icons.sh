@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-    echo "Usage: $0 path/to/icon.svg"
+    echo "Usage: $0 path/to/icon.png"
     exit 1
 fi
 FNAME=$1
